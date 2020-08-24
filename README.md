@@ -23,6 +23,8 @@ Good readings on various topics from distributed systems:
 * [docs.microsoft.com - CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 * [martinfowler.com - CQRS](https://martinfowler.com/bliki/CQRS.html)
 
+* [Another good reading list](http://dancres.github.io/Pages)
+
 <!--
 **vshkola/vshkola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
