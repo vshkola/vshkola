@@ -6,7 +6,7 @@ Thanks for visting my Github profile! :trophy:
 
 My name is **Vladyslav Shkola**, currently based in [@Munich, Germany](https://goo.gl/maps/YpdwAcxrdQVzNmQt8). 
 
-<br>I'm a Software Engineer, interested in Go, Distributed Systems, Cloud, Applied Machine Learning and Stream Processing.
+<br>I'm a Software Engineer, interested in `Go`, `Distributed Systems`, `Cloud`, `Applied Machine Learning` and `Stream Processing`.
 
 Feel free to reach me on:
 <p align='center'>
