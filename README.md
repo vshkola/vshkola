@@ -22,7 +22,6 @@ Good readings on various topics from distributed systems:
 * [benstopford.com - Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
 * [docs.microsoft.com - CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 * [martinfowler.com - CQRS](https://martinfowler.com/bliki/CQRS.html)
-
 * [Another good reading list](http://dancres.github.io/Pages)
 
 <!--
