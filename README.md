@@ -4,11 +4,14 @@ Hi!
 
 Thanks for visting my Github profile! :trophy:
 
-My name is **Vladyslav Shkola**, currently based in @Munich, Germany. I'm Software Engineer, interested in Go, Distributed Systems, Cloud, Applied Machine Learning and Stream Processing.
+My name is **Vladyslav Shkola**, currently based in [@Munich, Germany](https://goo.gl/maps/YpdwAcxrdQVzNmQt8). 
+
+<br>I'm a Software Engineer, interested in Go, Distributed Systems, Cloud, Applied Machine Learning and Stream Processing.
 
 Feel free to reach me on:
 <p align='center'>
-<a href="https://www.linkedin.com/in/vshkola/"><img height="30" src="https://github.com/vshkola/vshkola/blob/main/icons/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/vshkola/"><img height="30" src="https://github.com/vshkola/vshkola/blob/master/icons/linkedin.png?raw=true"></a>
+<a href="https://leetcode.com/shkola/"><img height="30" src="https://github.com/vshkola/vshkola/blob/master/icons/leetcode.png?raw=true"></a>
 </p>
 
 Good readings on various topics from distributed systems:
