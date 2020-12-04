@@ -2,7 +2,7 @@
 
 Hi! 
 
-Thanks for visting my Github profile! :trophy:
+Thanks for visiting my Github profile! :trophy:
 
 My name is **Vladyslav Shkola**, currently based in [@Munich, Germany](https://goo.gl/maps/YpdwAcxrdQVzNmQt8). 
 
